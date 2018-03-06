@@ -7,5 +7,5 @@
 ruby blackjack 
 
 # Testing
-cd test
+cd test <br />
 ruby test.rb
