@@ -244,18 +244,18 @@ class Blackjack
     end
 
     def set_player_cards(cards)
-            return @player_cards = cards
+        return @player_cards = cards
     end
 
     def get_player_cards_value()
-            return @player_cards_value
+        return @player_cards_value
     end
 
     def set_dealer_cards(cards)
-            return @dealer_cards = cards
+        return @dealer_cards = cards
     end
 
     def get_dealer_cards_value()
-            return @dealer_cards_value
+        return @dealer_cards_value
     end
 end
